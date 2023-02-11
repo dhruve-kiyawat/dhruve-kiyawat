@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Web Dev**
+- 🔭 I’m currently working on **Machine Lerning and Data Science**
 
-- 🌱 I’m currently learning **Web Development and Tkinter(Python)**
+- 🌱 I’m currently learning **Deep Learning and Tkinter(Python)**
 
 - 💬 Ask me about **astronomy**
 
